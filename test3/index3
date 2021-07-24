@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>Hello is Structure only (Before)</title>
+</head>
+<body>
+<h1>Hello Adib!, How Are You? This is testing page</h1>
+<h2>Please be patient</h2>
+<h2>I am now studying programming languange</h2>
+
+<footer>
+	<hr><p>Tech Support adibyousop &copy; Copyright : germanhereyougo.com</p>
+</footer>
+</body>
+</html> 
